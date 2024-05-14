@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./StyleSheet/Style.css">
+    <link rel="shortcut icon" href="./Image/icons8-favorite-48.png" type="image/x-icon">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Keep</title>
+</head>
+
+<body>
+    <div class="mian w-full min-h-screen bg-zinc-900">
+        <div class="form p-10 text-white">
+            <form action="/create" method="post">
+                <h1 class="text-3xl px2 py-3" >Enter Title</h1>
+                <input class="block w-4/12  bg-zinc-700 px-5 py-2 rounded-sm outline-none" type="text" name="title" id=""
+                    placeholder="Title goes here...">
+                <textarea
+                    class="block w-full block bg-zinc-700 px-5 py-2 outline-none resize-none mt-2 rounded-sm min-h-52"
+                    placeholder="Enter you task details here..." name="details"></textarea>
+                <input class="mt-3 bg-blue-600 rounded-sm text-xl px-5 py-2 text-white" type="submit" id="">
+            </form>
+
+        </div>
+        <div class="tasks p-10 flex gap-4 flex-wrap">
+            <% if(files.length> 0){ %>
+                <% files.forEach(function(val){ %>
+                    <div class="task min-w-72 px-3 py-4 bg-zinc-700 rounded-md">
+                        <h1 class="text-white text-3xl teacking-tighter"><%=val%></h1>
+                        <a href="/Files/<%= val %>"  class="text-blue-500 font-bold inline-b lock mt-3">Read more</a>
+                    </div>
+                    <% }) %>
+                        <% }else{ %>
+                            <h3 class="text-zinc-600 text-xl">No tasks yet</h3>
+                            <% } %>
+
+        </div>
+    </div>
+    <script rel="script" src="./JavaScript/Script.js"></script>
+</body>
+
+</html>
