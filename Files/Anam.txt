@@ -1,0 +1,189 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Open Source
+Pricing
+
+Search or jump to...
+Sign in
+Sign up
+@AnamuddinAhmad	AnamuddinAhmad
+Overview
+Repositories
+31
+Projects
+Packages
+Stars
+34
+@AnamuddinAhmad	AnamuddinAhmad	
+View AnamuddinAhmad's full-sized avatar
+💭
+Anamuddin Ahmad
+AnamuddinAhmad
+| Student | Mentor | Coding Enthusiasts | Developer |
+ 9 followers · 13 following
+@infosis @uber @flipkar
+TamilNadu
+10:53 - same time
+https://rb.gy/zp6k
+in/anamuddinahmad
+Achievements
+Achievement: Quickdraw
+Achievement: Pull Shark
+BetaSend feedback
+Highlights
+ PRO
+Find a repository…
+Movie-Reviews Public
+You can search about the Movies Reviews.
+javascript
+css
+api
+html5
+css-grid
+css-flexbox
+googlefonts
+ CSS Updated 3 weeks ago
+AnamuddinAhmad Public
+Config files for my GitHub profile.
+config
+github-config
+ 3  1 Updated on Mar 19
+To-do-List Public
+Creating Todo web aap using HTML CSS and JS
+css
+html5
+javascipt
+css-flexbox
+ CSS Updated on Mar 16
+Rock-Paper-Scissor Public
+Developed Rock Paper Scissors game using html css and js.
+javascript
+css
+html5
+css-flexbox
+ CSS Updated on Mar 14
+Simon-Says Public
+It is a memory boost game.
+javascript
+css
+html5
+ CSS Updated on Mar 8
+Tic-Tac-Toe Public
+Tic Tac Toe Game
+javascript
+css
+html5
+ JavaScript Updated on Feb 14
+Cynthia-Ugwu Public
+Awarded Website Colne.
+javascript
+css
+html5
+frontend
+gsa
+cssflex
+ CSS Updated on Feb 4
+Leet_Code_Solution Public
+With Java
+java
+data-structures
+ Java  1 Updated on Jan 22
+Geeks_for_Geek Public
+Solution
+ Java  2 Updated on Jan 22
+Hacker_Rank Public
+Problem Solution
+ Java  2 Updated on Jan 16
+Java Public
+Practice Question.
+java
+algorithms
+data-structures-and-algorithms
+ Java  2 Updated on Nov 27, 2023
+Portfolio Public
+It's Personal Portfolio.
+ HTML  3  2 Other Updated on Nov 24, 2023
+Coding-Ninjas-Solution-s Public
+ Java Updated on Nov 17, 2023
+3D_Template Public
+Create a user friendly template
+javascript
+css
+html
+jstilemap
+ JavaScript Updated on Nov 16, 2023
+Frontend Public
+Forked from KwickerHub/WebCraftifyAI
+The repository for the ACES software aid frontend. Making it easier to develop and build content on the internet.
+ HTML MIT License Updated on Nov 15, 2023
+Buble-game Public
+Create A responsive Bubble game.
+javascript
+css
+html
+ CSS  1 Updated on Nov 6, 2023
+30-Days-of-JavaScript-LeetCode Public
+Solutions
+ JavaScript  1 Updated on Nov 5, 2023
+Sentiment-Analysis- Public
+ Python  1 Updated on Nov 1, 2023
+Amazon-Clone Public
+Amazon clone.
+open-source
+project
+amazon-clone
+ HTML Updated on Oct 27, 2023
+Front-End-Projects Public
+Forked from TusharKesarwani/Front-End-Projects
+This is a Repository where different types of Front - End Projects are present. If you have any front end project then you can contribute to this open source repository.
+ JavaScript MIT License Updated on Oct 23, 2023
+hacktoberfest Public
+Forked from sbmxc/hacktoberfest
+Create your first PR! Don't forget to star if it helped!
+ Python Updated on Oct 20, 2023
+Hacktoberfest2023 Public
+Forked from Ananyasingh2002/Hacktoberfest2023
+Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!
+ HTML Updated on Oct 17, 2023
+Hacktoberfest2022_for_Beginers Public
+Forked from AdarshAddee/Hacktoberfest2022_for_Beginers
+Hacktoberfest2022🥳 - Contribute given programs in every language😎 you want, every PR will be accepted😍!!!
+ C++ MIT License Updated on Oct 17, 2023
+Web-Development Public
+Forked from UNO-Coders/Web-Development
+Created this new Repository for Open Source Contribution for Beginners
+ HTML GNU General Public License v3.0 Updated on Oct 16, 2023
+You-Dont-Need-JavaScript Public
+Forked from you-dont-need/You-Dont-Need-JavaScript
+CSS is powerful, you can do a lot of things without JS.
+ CSS Other Updated on Oct 16, 2023
+Login_Page Public
+Create a login page using HTML CSS
+ CSS  1 Updated on Sep 21, 2023
+Java_Oops Public
+ Java  1 Updated on Jun 26, 2023
+erxes Public
+Forked from erxes/erxes
+The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
+ TypeScript  1 Other Updated on Apr 16, 2023
+Clock Public
+Creating a Anloge clock
+ HTML  2 Updated on Apr 12, 2023
+Calculator Public
+This is the code of calculator. But it can not take input physically you can give input virtually.
+ HTML  2 Updated on Apr 5, 2023
+ 
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+AnamuddinAhmad (AnamuddinAhmad) / Repositories · GitHub
